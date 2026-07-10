@@ -3,6 +3,7 @@
 AI Multiverse Chat Studio is a premium, interactive Streamlit web application that lets you explore and converse with a wide range of unique AI personas across different languages. Powered by the next-generation **Google Gemini API** (`gemini-2.5-flash` model via the official `google-genai` SDK), it provides a dynamic interface tailored for a premium user experience.
 
 ---
+<img width="1918" height="865" alt="image" src="https://github.com/user-attachments/assets/497ec819-677c-4c5f-9de1-406e2f1bb55f" />
 
 ## 🌌 Features
 
